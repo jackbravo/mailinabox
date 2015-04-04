@@ -187,3 +187,4 @@ ufw_allow submission
 # Restart services
 
 restart_service postfix
+restart_service postgrey
